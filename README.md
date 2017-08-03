@@ -15,7 +15,7 @@ This is [Signal Private Messenger](https://whispersystems.org/) built as a nativ
 All credit for this goes to [Tim Taubert](https://timtaubert.de/blog/2016/01/build-your-own-signal-desktop/)
 
 ## Build It Yourself
-You can also build the OSX app yourself. Note: the build process requires Docker to build installed.
+You can also build the OSX app yourself. Note: the build process requires Docker to be installed.
 
 ```sh
  ./build.sh
