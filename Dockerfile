@@ -1,6 +1,6 @@
 FROM node:8 as builder
 
-ENV	NWJS_VERSION v0.24.0
+ENV	NWJS_VERSION v0.25.4
 
 RUN	apt-get update && \
 	  apt-get install -y unzip ruby ruby-dev && \
