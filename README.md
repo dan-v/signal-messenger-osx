@@ -1,3 +1,5 @@
+## This repository is no longer maintained. There is now an official Desktop client!
+
 This is [Signal Private Messenger](https://whispersystems.org/) built as a native OSX app using [NW.js](https://nwjs.io/).
 
 ![](/images/overview.gif?raw=true)
